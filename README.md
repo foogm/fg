@@ -1,4 +1,5 @@
-# IBM Cloud Foundry - XRay
+###每周一21点自动安装xray
+
 
 Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
 
@@ -56,12 +57,3 @@ Thank P3TERX for providing the original project
 
 - [IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2.git)
 
-## 重要な情報
-
-このプロジェクトをフォークまたはクローンする場合は、控えめに使用してください。Webサイトでの広告を主張し、控えめな使用に同意しない場合は、このページを閉じてすぐに終了してください。 ！ ！ ！
-
-ネチズンがウェブサイトで宣伝することは固く禁じられています。そうしないと、すべての結果は自分で負担することになります。 ！ ！ ！
-
-元のプロジェクトを提供してくれてありがとうP3TERX
-
-- [IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2.git)
