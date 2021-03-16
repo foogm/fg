@@ -1,4 +1,4 @@
-###每周一21点自动安装xray
+###每月10日 21点自动安装xray
 
 
 Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
